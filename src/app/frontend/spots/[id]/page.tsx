@@ -1,6 +1,5 @@
-export const runtime = 'edge';
-'use client';
 
+'use client';
 import { useParams } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
