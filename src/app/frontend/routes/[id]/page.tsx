@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 // src/app/frontend/routes/[id]/page.tsx
 'use client';
 import { useEffect, useState } from 'react';
